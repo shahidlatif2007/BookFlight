@@ -19,7 +19,7 @@ You can run the test cases in two ways.
 
 1- Command Line:
 
-run the command mvn clean test -DsuiteXmlFile=book_flight_testng.xml
+Run the command * `mvn clean test -DsuiteXmlFile=book_flight_testng.xml` 
 
 - Please go into project where Maven file (POM) and run the following command. Also there will be ***book_flight_testng.xml*** file.
 
