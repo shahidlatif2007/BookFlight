@@ -1,0 +1,39 @@
+INFO    2021-09-19 19:24:03,276 [main] base.TestBase  - Starting Appium Server
+INFO    2021-09-19 19:24:03,277 [main] base.TestBase  - Appium Server Started
+INFO    2021-09-19 19:24:03,277 [main] base.TestBase  - Loading Property File
+INFO    2021-09-19 19:24:03,287 [main] base.TestBase  - Property file loaded
+INFO    2021-09-19 19:24:19,441 [main] base.TestBase  - Going to Verify that english button title is correct.
+INFO    2021-09-19 19:24:19,582 [main] base.TestBase  - Going to click on English language button and then click Continue
+INFO    2021-09-19 19:24:27,858 [main] base.TestBase  - Selecting Source and Destination airport
+INFO    2021-09-19 19:24:27,861 [main] base.ScreenBase  - Going to Select Journey trip of Type: ROUND-TRIP
+INFO    2021-09-19 19:24:32,042 [main] base.TestBase  - Searching and Selecting origin airport
+INFO    2021-09-19 19:24:37,254 [main] base.ScreenBase  - Searched airport with code KHS and Searched airport List Count 2
+INFO    2021-09-19 19:24:37,706 [main] base.ScreenBase  - Successfully Selected flight:KHS of Fight Code:KHS
+INFO    2021-09-19 19:24:37,706 [main] base.TestBase  - Searching and Selecting Departure airport
+INFO    2021-09-19 19:24:42,080 [main] base.ScreenBase  - Searched airport with code MNL and Searched airport List Count 2
+INFO    2021-09-19 19:24:42,440 [main] base.ScreenBase  - Successfully Selected flight:MNL of Fight Code:MNL
+INFO    2021-09-19 19:24:42,440 [main] base.TestBase  - Verifying the origin airport selection
+INFO    2021-09-19 19:24:43,612 [main] base.TestBase  - Verifying the destination airport selection
+INFO    2021-09-19 19:24:43,815 [main] base.TestBase  - Selecting start date of the the flight
+INFO    2021-09-19 19:24:45,237 [main] Utilities.DateSelectionUtility  - Date Not found: Random Month:January 2022 and Current Month On Calender:SEPTEMBER 2021
+INFO    2021-09-19 19:24:48,243 [main] Utilities.DateSelectionUtility  - Date Not found: Random Month:January 2022 and Current Month On Calender:OCTOBER 2021
+INFO    2021-09-19 19:24:51,312 [main] Utilities.DateSelectionUtility  - Date Not found: Random Month:January 2022 and Current Month On Calender:NOVEMBER 2021
+INFO    2021-09-19 19:24:55,245 [main] Utilities.DateSelectionUtility  - Date Not found: Random Month:January 2022 and Current Month On Calender:DECEMBER 2021
+INFO    2021-09-19 19:24:58,157 [main] Utilities.DateSelectionUtility  - Date found: Random Month:January 2022 and Current Month On Calender:JANUARY 2022
+INFO    2021-09-19 19:24:58,319 [main] Utilities.DateSelectionUtility  - Departure Flight Day: 12 Return Flight Day: 16
+INFO    2021-09-19 19:25:02,315 [main] base.TestBase  - Verifying date selection in calendar selection and showed in flight input Detail screen.
+INFO    2021-09-19 19:25:03,739 [main] base.TestBase  - Select Travellers with 1 Adult, 2 Children and 1 Infant.
+INFO    2021-09-19 19:25:03,826 [main] base.TestBase  - Going to increase adult, children and infant count
+INFO    2021-09-19 19:25:07,899 [main] base.TestBase  - Verifying adult passenger count
+INFO    2021-09-19 19:25:08,835 [main] base.TestBase  - Verifying Children passenger count
+INFO    2021-09-19 19:25:08,941 [main] base.TestBase  - Verifying Infant passenger count
+INFO    2021-09-19 19:25:09,623 [main] base.TestBase  - Class cabin selection done.
+INFO    2021-09-19 19:25:09,623 [main] base.TestBase  - Going to search flights based on set creteria.
+INFO    2021-09-19 19:25:10,854 [main] base.TestBase  - Now waiting for flight listing.
+INFO    2021-09-19 19:25:18,522 [main] base.TestBase  - Flight Listing done. Now applying lowest flight filter.
+INFO    2021-09-19 19:25:18,522 [main] base.TestBase  - Applying Sort by Lowest and price range filter.
+INFO    2021-09-19 19:25:20,479 [main] base.TestBase  - Flight button pressed.
+INFO    2021-09-19 19:25:22,127 [main] base.ScreenBase  - First Flight Price is :AED 14,400
+INFO    2021-09-19 19:25:22,209 [main] base.TestBase  - Traveller count and date in Flight Listing page element is:4 Travellers - 12 Jan - 16 Jan
+INFO    2021-09-19 19:25:22,209 [main] base.TestBase  - Departure Date from FLight Listing page is:12 Jan randomly selected departure date is:12 Jan
+INFO    2021-09-19 19:25:22,210 [main] base.TestBase  - Return Date from FLight Listing page is:16 Jan randomly selected departure date is:16 Jan
