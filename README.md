@@ -39,10 +39,5 @@ Run the command  `mvn clean test -DsuiteXmlFile=book_flight_testng.xml`
 
 
 
-https://user-images.githubusercontent.com/2598508/133940389-f738af2f-7174-4d37-8fd3-4d3b5c0cd20c.mov
-
-
-
-
 
 
