@@ -19,7 +19,14 @@ You can run the test cases in two ways.
 
 <b>Command Line:</b>
 
-Run the command * `mvn clean test -DsuiteXmlFile=book_flight_testng.xml` 
+Run the command  `mvn clean test -DsuiteXmlFile=book_flight_testng.xml` 
+
+  <b>Intellij IDEA:</b>
+  * Open the project as maven project in Intellij idea
+  * Right click on "book_flight_testng.xml" file and click run/debug. Please see following screenshot.
+  
+  <img width="362" alt="Screenshot 2021-09-19 at 23 21 01" src="https://user-images.githubusercontent.com/2598508/133940255-b2a4fc16-96b9-43b3-b223-79211ce93ea7.png">
+
 
 
 
