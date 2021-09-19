@@ -11,7 +11,7 @@ https://github.com/tajawal/code-challenge/blob/master/QA_NativeApps.md
 * Appium Desktop/Server should be installed and running.
 * Real device or simulator should be attached and running.
 
-<b>Ways to run tests<b>
+<b>Ways to run tests</b>
 
 You can run the test cases in two ways.
 * Command Line
