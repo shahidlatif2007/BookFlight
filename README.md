@@ -1,8 +1,25 @@
 # Tajawal Code Challenge
 
-***Setup***
-- install mvn. I have installed v3.8.1.
-- Install and run appium Server before runing the test cases. I have used Appium v1.21.0.
+This code is written as part of mobile automation code challenge for Seera.
+https://github.com/tajawal/code-challenge/blob/master/QA_NativeApps.md
+
+***Pre-requisites:**
+
+Maven should be readily installed.
+Android SDK tools and configurations should be set.
+Appium Desktop/Server should be installed and running.
+Real device or simulator should be attached and running.
+
+***Ways to run tests***
+
+You can run the test cases in two ways.
+1- Command Line
+2- IDE (Intellij IDEA)
+
+1- Command Line:
+
+run the command mvn clean test -DsuiteXmlFile=book_flight_testng.xml
+
 - Please go into project where Maven file (POM) and run the following command. Also there will be ***book_flight_testng.xml*** file.
 
 ***Command To Run***
