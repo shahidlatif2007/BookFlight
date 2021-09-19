@@ -17,7 +17,7 @@ You can run the test cases in two ways.
 * Command Line
 * IDE (Intellij IDEA)
 
-***Command Line:
+<b>Command Line:</b>
 
 Run the command * `mvn clean test -DsuiteXmlFile=book_flight_testng.xml` 
 
