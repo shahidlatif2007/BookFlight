@@ -34,6 +34,11 @@ Run the command  `mvn clean test -DsuiteXmlFile=book_flight_testng.xml`
   
   <img width="362" alt="Screenshot 2021-09-19 at 23 21 01" src="https://user-images.githubusercontent.com/2598508/133940255-b2a4fc16-96b9-43b3-b223-79211ce93ea7.png">
   
+  <b> Test Results Report </b>
+  
+  <img width="1440" alt="Screenshot 2021-09-20 at 05 28 22" src="https://user-images.githubusercontent.com/2598508/133949990-5ac94285-4606-42e7-ac4b-7538068d06d9.png">
+
+  
   <b> Demo </b>
   
   [Watch demo of the automation](https://www.youtube.com/watch?v=5YZVbCOxhvQ)
